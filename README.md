@@ -1,5 +1,4 @@
-# secant-method-to-solve-BS-formula-to-get-implied-volatility
-id,V,K,T,S,q,r,s0,s1,tol,maxn)
+# secant-method-to-solve-BS-formula-to-get-implied-volatility by matlab
 when id=1, calculate call euro option implied volatility
 when id=-1, calculate put euro option implied volatility
 V: option price
